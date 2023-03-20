@@ -47,7 +47,7 @@ main{
      Width:470px;
      Height:70px;
      font-size: 28px;
-     margin-bottom: 40px;
+     margin-bottom: 80px;
      margin-left: 60px;}
 
 .main-box2{
@@ -56,13 +56,16 @@ main{
      background-color: white;
      display: flex;
      justify-content: center;
-     align-items: center;} 
+     align-items: center;
+     } 
 .box-one1{
      height: 100px;
      width: 664px;    
      margin-left: 60px;
      margin-right: 76px;
-     margin-bottom: 44px; }
+     margin-bottom: 44px;
+     margin-top: 80px;     
+     }
 .main-box3{
      background-image: url(/assetts/figma/Figa.jmg.png.png); 
      height: 330px;
@@ -80,15 +83,17 @@ main{
 .main-box4{ 
      height: 150px;
      width: 800px;
-     background-color: white;}
+     background-color: white;
+     }
 .box-one3{  
      height: 100px;
      width: 664px;
      margin-left: 60px;
      margin-right: 76px;
-     margin-bottom: 44px; }
+     margin-bottom: 44px; 
+     }
 .main-box5{
-     background-image: url(/assetts/figma/Figma.\ main.IMAGE.png.png); 
+     background-image: url(../assetts/figma/Figma.\ main.IMAGE.png.png); 
      height: 330px;
      width: 800px; 
      background-repeat: no-repeat;
@@ -112,7 +117,8 @@ main{
      width: 664px;
      margin-left: 60px;
      margin-right: 76px;
-     margin-bottom: 44px;}
+     margin-bottom: 44px;
+     }
 .main-box7{
      height: 211px;
      width: 800px; 
@@ -145,6 +151,7 @@ footer{
      height: 150px;
      width: 800px;
      display: flex;
+     margin-top: 70px;
      margin-left: 150px;      
      padding-top: 30px;
      padding-left: 10px;}
